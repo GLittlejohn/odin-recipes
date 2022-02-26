@@ -1,0 +1,21 @@
+* {
+    font-family: "Times New Roman", sans-serif;
+}
+
+#steps {
+    color: red;
+    font-size: large;
+}
+
+h1 {
+    text-align: center;
+}
+
+.enchilada,
+.lasagna,
+.pork {
+    color: red;
+    font-size: large;
+    font-weight: 400;
+    font-style: italic;
+}
